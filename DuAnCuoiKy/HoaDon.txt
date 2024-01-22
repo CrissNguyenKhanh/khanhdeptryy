@@ -1,0 +1,10 @@
+Invoice
+Date: 2024-01-15 00:06:09
+
+Không Độ	3	30000.0
+cafe sua da	1	25000.0
+sâm dứa	1	30000.0
+
+Total: 85000
+Money Paid: 
+Change: 0
